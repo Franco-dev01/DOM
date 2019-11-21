@@ -1,0 +1,106 @@
+EXERCICE 1
+                au click sur le bouton, lancer une fonction. cette fonction demande à l'utiliateur de saisrir 
+                une chaine de caractère contenant le caractère "" et le redemande tant que lutilasateur ne l'as 
+                pas fais.
+                il affiche ensuite la chaine entre guillemet
+
+
+EXERCICE 2
+
+            Créer un chronometre composé d'un afficheur et 3 bouton( satrt, stop, reset)
+
+            indication:
+            *créer un fonction start qui appele d'une manière repetitive la focntion update_chrono via la fonction 
+            setIterval
+            avec une cadence de ms. 
+            *créer une fonction update_chrono() qui permet d'incrementer le nombre de milliseconde, seconde , 
+            minutes et des heure
+
+            *créer une fonction "stop" qui arrete le traitement de setInterval.
+
+            *crer un e focntion reset qui remet les valeurs de l'affichge à 0.
+
+
+
+
+EXERCICE 3
+
+             **Ecrire une fonction qui permet de tester si une caine de caractère passée en argument commence 
+            par une lettre majuscule ou minuscule compris entre a et d.
+
+            **Ecrire une fonction qui renvois true lorsqu'une chaine contient un sel caractère @ sinon revois false.
+
+            **Ecrie une fonction qui remplace les chiffres par le caractère *.
+
+
+EXERCICE 4
+
+            Ecrire une fonction qui remplis un taleau par des noms saisis par l'utilisateur via un input. 
+            cette fonction sera appelé au clic sur un bouton.
+
+            Ecrire une fonction qui renvois au hasard le nom gagnant et qui sera lancée lorsque
+            l'utilisateur clique sur le bouton tirage au sort.
+
+
+
+EXERCICE 5
+
+            Créer un tableau qui va stocker les notes d'un etudiant son maricule son nom et prenom.
+                Ecrire un programme qui permettra de calculer la moyenne de cahque etudiant dans chaque chacune des matière
+                puis sa moyenne générale.
+                vou devez affichez chaque etudiant avec sa moyenne en partant du premier au dernier.
+
+
+EXERCICE 6
+
+             **definir une variable contenant le verbe chanter.
+                **supprimer les deux dernière lettres et les remplacer par "eur"
+                **generaliser le code avec tout les verbe du 1er groupe
+
+
+EXERCICE 7
+
+             Créer un formuaire html avec  les champs nom, prenom, e-mail et numero
+                que l'utilisateur devra remplis et l'envoyer ensuite.
+                si jamais l'un des champs n'est pas remplis obliger l'utilisateur a le faire.
+
+
+EXERCICE 8
+
+            avec 3 boutons on pouras changer l'aspect de notre body, changer l'apparence du bouton et revenir a la
+                normal.
+                changer une image par une autre lorsque la sourie passe dessus
+                et remmtre l'image d'origine lorsque la souris quitte l'image. 
+
+
+EXERCICE 9
+
+            pour cet exercice, il est démandé de créer un script qui demande à l'utilisatuer de saisire
+            3 variables numériques via une boite prompt.
+
+            *L'utilisatuer est averti s'il ne saisie pas un nombre, le script lui demande de saisir une valeur 
+            numerique.
+
+            *Une fois l'utilisateur à saisie 3 valeurs numeriques, le script teste les 3 variables:
+
+                *Si elle sont gales, ecrire "les 3 variables sont indentique".
+
+                *Si seulement 2 sont indentiques ecrire:"2 des variables sont identiques".
+
+                *sinon, ecrire:" les 3 variables sont differentes."
+EXERCICE 10
+
+             créer un tableau nommé tab dont le premier élément es -2, lesecond 1 et le troisieme 4.
+            Créer une fonction prenat un argumant x et renvoyant le resultatt de l'addition de x à 2.
+            créer une fonction appelé au clic qui affiche dans des boites d'alerte successivemnet le 
+             resulat de la fonction 1e appliqque au premier élément puis au dernire element du tatbleau 
+
+
+
+EXERCICE 11
+
+              créer un tableau nommé tab dont le premier élément es -2, lesecond 1 et le troisieme 4.
+            Créer une fonction prenat un argumant x et renvoyant le resultatt de la soustraction de x - 2.
+            si x est positif ou nul, 
+            créer une fonction appelé au clic qui affiche dans des boites d'alerte successivement le 
+resultat de la fonction 1e appliqque au premier élément puis au dernire element du tatbleau 
